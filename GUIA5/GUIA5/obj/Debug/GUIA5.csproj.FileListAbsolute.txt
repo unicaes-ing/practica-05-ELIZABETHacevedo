@@ -1,0 +1,13 @@
+c:\users\sistemas\documents\visual studio 2013\Projects\GUIA5\GUIA5\bin\Debug\GUIA5.exe.config
+c:\users\sistemas\documents\visual studio 2013\Projects\GUIA5\GUIA5\bin\Debug\GUIA5.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\GUIA5\GUIA5\bin\Debug\GUIA5.pdb
+c:\users\sistemas\documents\visual studio 2013\Projects\GUIA5\GUIA5\obj\Debug\GUIA5.csprojResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2013\Projects\GUIA5\GUIA5\obj\Debug\GUIA5.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\GUIA5\GUIA5\obj\Debug\GUIA5.pdb
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\bin\Debug\GUIA5.exe.config
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\bin\Debug\GUIA5.exe
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\bin\Debug\GUIA5.pdb
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\obj\Debug\GUIA5.csprojAssemblyReference.cache
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\obj\Debug\GUIA5.csproj.CoreCompileInputs.cache
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\obj\Debug\GUIA5.exe
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\GUIA5\GUIA5\obj\Debug\GUIA5.pdb
